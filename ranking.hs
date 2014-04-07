@@ -6,7 +6,7 @@ rankStart :: Int
 rankStart = 1
 
 rankLimit :: Int
-rankLimit = 10
+rankLimit = 100000
     
 rankFileName :: String
 rankFileName = "./ranking.sdat"
